@@ -1,4 +1,4 @@
-package com.ds.learning;
+package com.ds.array;
 
 public class ReverseArray {
     public static void main(String[] args) {
